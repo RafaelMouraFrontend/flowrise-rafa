@@ -26,6 +26,7 @@
     "slice-machine-ui": "^2.11.1"
   },
   "dependencies": {
+    "@fontsource-variable/nunito": "^5.1.1",
     "@fontsource-variable/nunito-sans": "^5.1.1"
   }
 }
